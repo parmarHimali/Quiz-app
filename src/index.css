@@ -1,0 +1,30 @@
+.app{
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.121);
+}
+.option{
+    display: flex;
+    flex-direction: column;
+    padding: 0 20px;
+}
+.main-card{
+    max-width: 500px;
+    margin: auto;
+    max-height: 380px;
+    margin-top: 20px;
+}
+.que{
+    margin: 10px 15px 0 15px;
+}
+.score{
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.score-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    font-weight: 700;
+}
